@@ -1,7 +1,7 @@
 # AI-Powered Mock Interview Platform
 
 ## Description
-This is an advanced and interactive AI-powered mock interview platform designed to help job seekers practice and improve their interview skills. Built with Next.js, Tailwind CSS, and Gemini Api,PostgreSQL, Drizzle ORM, it provides users with a good interview experience to enhance their chances of landing their dream job.
+This is an advanced and interactive AI-powered mock interview platform designed to help job seekers practice and improve their interview skills. Built with Next.js, Tailwind CSS, and Gemini API, PostgreSQL, Drizzle ORM, it provides users with a good interview experience to enhance their chances of landing their dream job.
 
 ## Features
 - AI-driven Interview: interview questions and feedback powered by AI.
@@ -17,7 +17,7 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/modamaan/Ai-mock-Interview.git
+   git clone https://github.com/sharifulkadersunny/AI-Based-Mock-Interview.git
 
 2. Navigate to the project directory:
    ```bash
@@ -37,7 +37,7 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
    ```bash
    docker pull mohamedamaan319/ai-mock-interview
 
-7. Run the Docker Container in your local machine:
+7. Run the Docker Container on your local machine:
    ```bash
    docker run -d -p 3000:3000 your-docker-username/ai-mock-interview
 
@@ -60,22 +60,10 @@ To use the AI-Powered Mock Interview Platform, follow these guidelines:
 
 ## Feedback
 
-If you have any feedback, please reach me at [mohamedamaan319@gmail.com](mailto:mohamedamaan319@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedamaan319/).
-
-
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them to your branch.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the main repository.
+If you have any feedback, please reach me at [sharifulkadersunny@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sharifulkadersunny/).
 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
 
-## Support
-
-Show your support by 🌟 the project!!
