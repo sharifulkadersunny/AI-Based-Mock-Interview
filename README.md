@@ -48,9 +48,3 @@ To use the AI-Powered Mock Interview Platform, follow these guidelines:
 ## Feedback
 
 If you have any feedback, please reach me at [sharifulkadersunny@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sharifulkadersunny/).
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
-
